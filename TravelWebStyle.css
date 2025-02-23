@@ -33,7 +33,7 @@ body{
     padding-bottom: 30px;
 }
 #travel-web{
-    background-image: url(images/wallpaper.jpg);
+    background-image: url(wallpaper.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -177,7 +177,7 @@ nav ul li a:hover::after{
 
 /*-------------------------New York Web-------------------------*/
 #newyork-web{
-    background-image: url(images/newyork-web.jpg);
+    background-image: url(newyork-web.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -185,7 +185,7 @@ nav ul li a:hover::after{
 }
 /*-------------------------France Web-------------------------*/
 #france-web{
-    background-image: url(images/france-web.jpg);
+    background-image: url(france-web.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -193,7 +193,7 @@ nav ul li a:hover::after{
 }
 /*-------------------------Japan Web-------------------------*/
 #japan-web{
-    background-image: url(images/japan-web.jpg);
+    background-image: url(japan-web.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -201,15 +201,15 @@ nav ul li a:hover::after{
 }
 /*-------------------------Australia Web-------------------------*/
 #australia-web{
-    background-image: url(images/australia-web.jpg);
+    background-image: url(australia-web.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
-/*-------------------------Australia Web-------------------------*/
+/*-------------------------Thailand Web-------------------------*/
 #thailand-web{
-    background-image: url(images/thailand-web.jpg);
+    background-image: url(thailand-web.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
